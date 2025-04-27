@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382734647968",
+    "project_id": "herobook-app",
+    "storage_bucket": "herobook-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382734647968:android:e2f5c9b61b5755b1b1bfc5",
+        "android_client_info": {
+          "package_name": "com.example.herobook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEleiyX1ubUeQV6ZegzChSgeYUwC32twY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
