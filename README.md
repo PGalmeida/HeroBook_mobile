@@ -88,6 +88,6 @@ Você pode usar serviços como GitHub Pages, Netlify ou Vercel para hospedar.
 
 ## 📦 Link para APK / Versão Web
 
-- [Baixar APK](#) 
+- [Baixar APK](https://flutlab.io/apk/aHR0cHM6Ly9hcGkuZmx1dGxhYi5pby9wcm9qZWN0cy8yNTM3ODc0L2Rvd25sb2FkLWFwcD9rZXk9ZHN1eHR0bjAyeWk5bGU1M2V2aGkmdGFyZ2V0PWFsbA==) 
 - [Testar Versão Web](https://preview.flutlab.io/pedro_gomes4/herobook/)
 
